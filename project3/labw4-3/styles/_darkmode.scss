@@ -1,0 +1,9 @@
+p, h3 {
+    @if $footer-bg-color == #ad60ce {
+        color: white;
+    } @else {
+        color: black;
+    }
+
+}
+
